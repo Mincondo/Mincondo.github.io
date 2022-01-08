@@ -50,16 +50,13 @@ a:hover {
 }
 
 .hero-img1 {
-  /* background-image: url("../images/hero_1.jpg"); */
-  background-image: url("https://picsum.photos/1000/1000");
+  background-image: url("../images/hero_1.jpg");
 }
 .hero-img2 {
-  /* background-image: url("../images/hero_2.jpg"); */
-  background-image: url("https://picsum.photos/1200/1000");
+  background-image: url("../images/hero_2.jpg");
 }
 .hero-img3 {
-  /* background-image: url("../images/hero_3.jpg"); */
-  background-image: url("https://picsum.photos/1200/900");
+  background-image: url("../images/hero_3.jpg");
 }
 
 .site-navbar {
