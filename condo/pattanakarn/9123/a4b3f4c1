@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Bangkok Apartments, Property, Real Estate Agents Agency in Bangkok, Rent Sale Condo House Service Apartment,
+    Bangkok Thailand</title>
+  <meta name="description"
+    content="Bangkok Apartments, Condo for Rent, Condo in Bangkok, Asoke, Nana, Ekamai, Apartment for  Rent, Bangkok Apartment  for Rent, Bangkok Thailand Property, Bangkok Condo Rents, Bangkok Thailand Condo Sales, Real Estate for Sale in Bangkok">
+  <meta name="keywords"
+    content="Bangkok Apartments, studio, one bed room, two bed room, beautiful condo, nice condo, want  to rent condo, want to buy condo, Condo in Bangkok, Apartment for Rent in Bangkok, Bangkok Serviced Apartments Guide, Rented Apartments in Bangkok, Sukhumvit, Saranjai Mansion, ABAC, Bangkok Condos Auction, Apartment and Thailand and Bangkok, Bangkok Apartment Rental Cheap, Sukhumvit, Condo in Sukhumvit, BTS Nana, BTS Asoke, BTS ,Short Term Apartments Bangkok, Apartment Accommodation Bangkok, Bangkok Apartment Rentals, Bangkok Thailand Condos, Bangkok Apartment for Sale, Sky Train, Subway, Sub-way, Bangkok Thailand Property, Bangkok Condos Sale, Bangkok Thailand Condo Sales, Real Estate for Sale in Bangkok Thailand, Apartments in Bangkok, Bangkok Apartment, Apartment Bangkok, Bangkok Service Apartment, Condos Bangkok, Bangkok Apartments, Serviced Apartments Bangkok, Bangkok Serviced Apartments, Condominium, Hotel, Bumrungrad Hospital, Landmark Hotel, Nana Hotel">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+
+  <link rel="stylesheet" href="../../../css/style.css">
+  <link rel="stylesheet" href="../../../css/style-card.css">
+  <link rel="stylesheet" href="../../../css/gallery.css">
+</head>
+
+<body>
+  <!-- condo card -->
+  <section class="dark">
+    <div class="container py-2">
+      <h1 class="h1 text-center" id="pageHeaderTitle">Condo Facility</h1>
+
+      <article class="postcard dark blue">
+        <div class="postcard__text">
+          <h1 class="postcard__title blue"><a href="/condo/pattanakarn/">Pattanakarn Life Complex</a></h1>
+          <div class="postcard__bar"></div>
+          <div class="postcard__preview-txt">
+            <div class="row">
+              <div class="col">
+                <p><i class="fas fa-check-circle mr-2"></i>Air Conditioner</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Water Heater</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Furniture</p>
+                <p><i class="fas fa-times-circle mr-2"></i>No Pets</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- room card -->
+  <section class="light" id="room">
+    <div class="container py-2">
+      <br>
+      <div class="h1 text-center text-dark my-3"></div>
+
+      <!-- room 123 -->
+      <article class="postcard light green">
+        <a class="postcard__img_link" href="/condo/pattanakarn/9123/#room">
+          <img class="postcard__img" src="/condo/pattanakarn/9123/0.jpg" alt="Image Title" />
+        </a>
+        <div class="postcard__text t-dark">
+          <h1 class="postcard__title green"><a href="/condo/pattanakarn/9123/#room">Room 123</a></h1>
+          <div class="postcard__bar"></div>
+          <div class="postcard__preview-txt">
+            <div class="row">
+              <div class="col"><i class="fas fa-arrows-alt-v mx-1"></i>5th Floor</div>
+              <div class="col"><i class="fas fa-bed mx-1"></i>1 Br</div>
+              <div class="col"><i class="fas fa-bath mx-1"></i>1 BT</div>
+            </div>
+          </div>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- gallery -->
+  <article class='gallery' id="gallery">
+    <a class='gallery-link' href='0.jpg'>
+      <figure class='gallery-image'>
+        <img src='0.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='1.jpg'>
+      <figure class='gallery-image'>
+        <img src='1.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='2.jpg'>
+      <figure class='gallery-image'>
+        <img src='2.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='3.jpg'>
+      <figure class='gallery-image'>
+        <img src='3.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='4.jpg'>
+      <figure class='gallery-image'>
+        <img src='4.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='5.jpg'>
+      <figure class='gallery-image'>
+        <img src='5.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='6.jpg'>
+      <figure class='gallery-image'>
+        <img src='6.jpg'>
+      </figure>
+    </a>
+  </article>
+
+  <div class="footer-basic">
+    <footer>
+      <div class="social">
+		  
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d968.9165286310849!2d100.6150965!3d13.7386532!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfcd969f0fb02992b!2z4Lie4Lix4LiS4LiZ4Liy4LiB4Liy4Lij4LmE4Lil4Lif4LmM4LiE4Lit4Lih4LmA4Lie4Lil4LmH4LiB4LiL4LmMIOC4reC4suC4hOC4suC4ozc!5e0!3m2!1sth!2sth!4v1652644902150!5m2!1sth!2sth" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>   
+		  
+        <h3>Contacts</h3>
+        <a href="https://www.youtube.com/channel/UCaSfT94ppYrJJGq4doDZ81Q/videos">
+          <i class="icon ion-social-youtube"></i>
+        </a>
+        <a href="#"><i class="icon ion-iphone"></i></a>
+        0624299874, 0816577659
+      </div>
+      <ul class="list-inline">
+        <img src="../../../images/Line0624299874.jpeg">
+      </ul>
+      <p class="copyright">Kamolthip.com</p>
+    </footer>
+  </div>
+
+  <script src="../../../js/jquery-3.3.1.min.js"></script>
+  <script src="../../../js/jquery.magnific-popup.min.js"></script>
+  <script src="../../../js/gallery.js"></script>
+</body>
+
+</html>

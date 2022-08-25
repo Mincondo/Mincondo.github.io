@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Bangkok Apartments, Property, Real Estate Agents Agency in Bangkok, Rent Sale Condo House Service Apartment,
+    Bangkok Thailand</title>
+  <meta name="description"
+    content="Bangkok Apartments, Condo for Rent, Condo in Bangkok, Asoke, Nana, Ekamai, Apartment for  Rent, Bangkok Apartment  for Rent, Bangkok Thailand Property, Bangkok Condo Rents, Bangkok Thailand Condo Sales, Real Estate for Sale in Bangkok">
+  <meta name="keywords"
+    content="Bangkok Apartments, studio, one bed room, two bed room, beautiful condo, nice condo, want  to rent condo, want to buy condo, Condo in Bangkok, Apartment for Rent in Bangkok, Bangkok Serviced Apartments Guide, Rented Apartments in Bangkok, Sukhumvit, Saranjai Mansion, ABAC, Bangkok Condos Auction, Apartment and Thailand and Bangkok, Bangkok Apartment Rental Cheap, Sukhumvit, Condo in Sukhumvit, BTS Nana, BTS Asoke, BTS ,Short Term Apartments Bangkok, Apartment Accommodation Bangkok, Bangkok Apartment Rentals, Bangkok Thailand Condos, Bangkok Apartment for Sale, Sky Train, Subway, Sub-way, Bangkok Thailand Property, Bangkok Condos Sale, Bangkok Thailand Condo Sales, Real Estate for Sale in Bangkok Thailand, Apartments in Bangkok, Bangkok Apartment, Apartment Bangkok, Bangkok Service Apartment, Condos Bangkok, Bangkok Apartments, Serviced Apartments Bangkok, Bangkok Serviced Apartments, Condominium, Hotel, Bumrungrad Hospital, Landmark Hotel, Nana Hotel">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+
+  <link rel="stylesheet" href="../../../css/style.css">
+  <link rel="stylesheet" href="../../../css/style-card.css">
+  <link rel="stylesheet" href="../../../css/gallery.css">
+</head>
+
+<body>
+  <!-- condo card -->
+  <section class="dark">
+    <div class="container py-2">
+      <h1 class="h1 text-center" id="pageHeaderTitle">Condo Facility</h1>
+
+      <article class="postcard dark blue">
+        <div class="postcard__text">
+          <h1 class="postcard__title blue"><a href="/condo/rama/">Rama Harbour View Condo</a></h1>
+          <div class="postcard__bar"></div>
+          <div class="postcard__preview-txt">
+            <p><i class="fas fa-map-marker-alt mr-2"></i>Sriracha, Chon Buri</p>
+            <p><i class="fas fa-grin mr-2"></i>Near Downtown Sriracha, Robinson Shopping Mall, Hospital,
+              International School, and International Restaurants</p>
+            <div class="row">
+              <div class="col">
+                <p><i class="fas fa-check-circle mr-2"></i>Fitness</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Swimming Pool</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Sauna</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Park and Garden</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Play Ground</p>
+              </div>
+              <div class="col">
+                <p><i class="fas fa-check-circle mr-2"></i>Library</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Boat Port</p>
+                <p><i class="fas fa-check-circle mr-2"></i>Lobby</p>
+                <p><i class="fas fa-check-circle mr-2"></i>CCTV</p>
+                <p><i class="fas fa-check-circle mr-2"></i>24 hr Security</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- room card -->
+  <section class="light" id="room">
+    <div class="container py-2">
+      <br>
+      <div class="h1 text-center text-dark my-3"></div>
+
+      <!-- room 11E -->
+      <article class="postcard light red">
+        <a class="postcard__img_link" href="/condo/rama/11E/#room">
+          <img class="postcard__img" src="/condo/rama/11E/0.jpg" alt="Image Title" />
+        </a>
+        <div class="postcard__text t-dark">
+          <h1 class="postcard__title red"><a href="/condo/rama/11E/#room">Room 11E</a></h1>
+          <div class="postcard__bar"></div>
+          <div class="postcard__preview-txt">
+            <div class="row">
+              <div class="col"><i class="fas fa-arrows-alt-v mx-1"></i>11st Floor</div>
+              <div class="col"><i class="fas fa-bed mx-1"></i>2 Br</div>
+              <div class="col"><i class="fas fa-bath mx-1"></i>2 BT</div>
+            </div>
+            <br>
+            <p><i class="fas fa-check-circle mr-2"></i>Include Furniture, Air Condition, TV, Refrigerator
+            </p>
+          </div>
+          <ul class="postcard__tagbox">
+            <li class="tag__item"><i class="fas fa-tag mr-2"></i>Rent 25k Baht per month</li>
+            <li class="tag__item"><i class="fas fa-tag mr-2"></i>Sale 4.9M Baht</li>
+            <li class="tag__item"><i class="fas fa-arrows-alt mr-2"></i>95 Sq.M.</li>
+          </ul>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- gallery -->
+  <article class='gallery' id="gallery">
+    <a class='gallery-link' href='0.jpg'>
+      <figure class='gallery-image'>
+        <img src='0.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='1.jpg'>
+      <figure class='gallery-image'>
+        <img src='1.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='2.jpg'>
+      <figure class='gallery-image'>
+        <img src='2.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='3.jpg'>
+      <figure class='gallery-image'>
+        <img src='3.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='4.jpg'>
+      <figure class='gallery-image'>
+        <img src='4.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='5.jpg'>
+      <figure class='gallery-image'>
+        <img src='5.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='6.jpg'>
+      <figure class='gallery-image'>
+        <img src='6.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='7.jpg'>
+      <figure class='gallery-image'>
+        <img src='7.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='8.jpg'>
+      <figure class='gallery-image'>
+        <img src='8.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='9.jpg'>
+      <figure class='gallery-image'>
+        <img src='9.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='10.jpg'>
+      <figure class='gallery-image'>
+        <img src='10.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='11.jpg'>
+      <figure class='gallery-image'>
+        <img src='11.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='12.jpg'>
+      <figure class='gallery-image'>
+        <img src='12.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='13.jpg'>
+      <figure class='gallery-image'>
+        <img src='13.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='14.jpg'>
+      <figure class='gallery-image'>
+        <img src='14.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='15.jpg'>
+      <figure class='gallery-image'>
+        <img src='15.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='16.jpg'>
+      <figure class='gallery-image'>
+        <img src='16.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='17.jpg'>
+      <figure class='gallery-image'>
+        <img src='17.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='18.jpg'>
+      <figure class='gallery-image'>
+        <img src='18.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='19.jpg'>
+      <figure class='gallery-image'>
+        <img src='19.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='20.jpg'>
+      <figure class='gallery-image'>
+        <img src='20.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='21.jpg'>
+      <figure class='gallery-image'>
+        <img src='21.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='22.jpg'>
+      <figure class='gallery-image'>
+        <img src='22.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='23.jpg'>
+      <figure class='gallery-image'>
+        <img src='23.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='24.jpg'>
+      <figure class='gallery-image'>
+        <img src='24.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='25.jpg'>
+      <figure class='gallery-image'>
+        <img src='25.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='26.jpg'>
+      <figure class='gallery-image'>
+        <img src='26.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='27.jpg'>
+      <figure class='gallery-image'>
+        <img src='27.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='28.jpg'>
+      <figure class='gallery-image'>
+        <img src='28.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='29.jpg'>
+      <figure class='gallery-image'>
+        <img src='29.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='30.jpg'>
+      <figure class='gallery-image'>
+        <img src='30.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='31.jpg'>
+      <figure class='gallery-image'>
+        <img src='31.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='32.jpg'>
+      <figure class='gallery-image'>
+        <img src='32.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='33.jpg'>
+      <figure class='gallery-image'>
+        <img src='33.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='34.jpg'>
+      <figure class='gallery-image'>
+        <img src='34.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='35.jpg'>
+      <figure class='gallery-image'>
+        <img src='35.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='36.jpg'>
+      <figure class='gallery-image'>
+        <img src='36.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='37.jpg'>
+      <figure class='gallery-image'>
+        <img src='37.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='38.jpg'>
+      <figure class='gallery-image'>
+        <img src='38.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='39.jpg'>
+      <figure class='gallery-image'>
+        <img src='39.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='40.jpg'>
+      <figure class='gallery-image'>
+        <img src='40.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='41.jpg'>
+      <figure class='gallery-image'>
+        <img src='41.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='42.jpg'>
+      <figure class='gallery-image'>
+        <img src='42.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='43.jpg'>
+      <figure class='gallery-image'>
+        <img src='43.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='44.jpg'>
+      <figure class='gallery-image'>
+        <img src='44.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='45.jpg'>
+      <figure class='gallery-image'>
+        <img src='45.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='46.jpg'>
+      <figure class='gallery-image'>
+        <img src='46.jpg'>
+      </figure>
+    </a>
+    <a class='gallery-link' href='47.jpg'>
+      <figure class='gallery-image'>
+        <img src='47.jpg'>
+      </figure>
+    </a>
+  </article>
+
+  <div class="footer-basic">
+    <footer>
+      <div class="social">
+		  
+		<br>
+		<br>
+		  
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/ybToU76WsQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+		  
+		<br>
+		<br>  
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15540.466858727263!2d100.912679!3d13.1550372!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf57f349ccdc88430!2z4Lij4Liy4Lih4Liy4Liu4Liy4Lij4LmM4LmA4Lia4Lit4Lij4LmM4Lin4Li04Lin4LiE4Lit4LiZ4LmC4LiU4Lih4Li04LmA4LiZ4Li14Lii4Lih!5e0!3m2!1sth!2sth!4v1652676992436!5m2!1sth!2sth" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>  
+		  
+        <h3>Contacts</h3>
+        <a href="https://www.youtube.com/channel/UCaSfT94ppYrJJGq4doDZ81Q/videos">
+          <i class="icon ion-social-youtube"></i>
+        </a>
+        <a href="#"><i class="icon ion-iphone"></i></a>
+        0624299874, 0816577659
+      </div>
+      <ul class="list-inline">
+        <img src="../../../images/Line0624299874.jpeg">
+      </ul>
+      <p class="copyright">Kamolthip.com</p>
+    </footer>
+  </div>
+
+  <script src="../../../js/jquery-3.3.1.min.js"></script>
+  <script src="../../../js/jquery.magnific-popup.min.js"></script>
+  <script src="../../../js/gallery.js"></script>
+</body>
+
+</html>
