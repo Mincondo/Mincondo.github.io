@@ -8,16 +8,16 @@ html {
   display: flex;
   flex-wrap: wrap;
 
-  margin: 0 10px;
+  margin: 0 4px;
   padding: 0;
   list-style-type: none;
 }
 
 .gallery > li {
-  flex: 1 1 auto;
   height: 100%;
   cursor: pointer;
   position: relative;
+  padding: 4px;
 }
 
 .gallery li img,
@@ -25,27 +25,27 @@ html {
   object-fit: cover;
   width: 100%;
   border-radius: 5px;
-  margin: 4px auto;
+  margin: 0;
 }
 
 @media only screen and (min-width: 600px) and (max-width: 800px) {
   .gallery li img,
   .gallery-image {
-    width: calc((100vw - 20px) / 2 - 10px);
+    width: calc((100vw - 16px) / 2 - 8px);
     height: 300px;
   }
 }
 @media only screen and (min-width: 801px) and (max-width: 1200px) {
   .gallery li img,
   .gallery-image {
-    width: calc((100vw - 20px) / 3 - 10px);
+    width: calc((100vw - 16px) / 3 - 8px);
     height: 300px;
   }
 }
 @media only screen and (min-width: 1201px) {
   .gallery li img,
   .gallery-image {
-    width: calc((100vw - 20px) / 4 - 10px);
+    width: calc((100vw - 16px) / 4 - 8px);
     height: 300px;
   }
 }
