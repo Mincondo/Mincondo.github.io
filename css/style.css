@@ -40,6 +40,17 @@ a:hover {
   text-decoration: none !important;
 }
 
+.hero-replacement {
+  height: 220px;
+  width: 100%;
+  background-color: #212529;
+}
+@media (max-width: 1200px) {
+  .hero-replacement {
+    height: 120px;
+  }
+}
+
 .hero {
   height: 100vh;
   width: 100%;
