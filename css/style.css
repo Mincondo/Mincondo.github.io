@@ -546,6 +546,14 @@ a:hover {
   margin: 2px;
 }
 
+/* youtube & google map */
+.wrapper-section iframe {
+  margin: 0 3px;
+  width: 100%;
+  padding: 2px;
+  border-radius: 6px;
+}
+
 .item-wrapper {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
