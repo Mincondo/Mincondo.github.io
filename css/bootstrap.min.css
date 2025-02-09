@@ -450,10 +450,6 @@ mark,
   list-style: none;
 }
 
-.list-inline img {
-  width: 100%;
-}
-
 .list-inline-item {
   display: inline-block;
 }
