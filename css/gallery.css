@@ -14,6 +14,7 @@ html {
 }
 
 .gallery > li {
+  flex-grow: 1;
   height: 100%;
   cursor: pointer;
   position: relative;
@@ -25,18 +26,22 @@ html {
   object-fit: cover;
   width: 100%;
   border-radius: 5px;
+  padding: 0;
+  margin: auto;
 }
 
 @media only screen and (min-width: 600px) and (max-width: 800px) {
   .gallery li img,
   .gallery-image {
     width: calc((100vw - 16px) / 2 - 8px);
+    padding-top: 1px;
     height: 300px;
   }
 }
 @media only screen and (min-width: 801px) and (max-width: 1200px) {
   .gallery li img,
   .gallery-image {
+    padding-top: 1px;
     width: calc((100vw - 16px) / 3 - 8px);
     height: 300px;
   }
@@ -44,6 +49,7 @@ html {
 @media only screen and (min-width: 1201px) {
   .gallery li img,
   .gallery-image {
+    padding-top: 1px;
     width: calc((100vw - 16px) / 4 - 8px);
     height: 300px;
   }
