@@ -388,9 +388,9 @@ a:hover {
 }
 
 .alert-card {
-  border-style: solid;
+  /* border-style: solid;
   border-width: 2px;
-  animation: changeBorderColor 2s infinite alternate;
+  animation: changeBorderColor 2s infinite alternate; */
 }
 
 @keyframes changeTitleColor {
